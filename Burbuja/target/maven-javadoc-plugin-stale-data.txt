@@ -1,0 +1,48 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/arley/OneDrive/Documentos/NetBeansProjects/Burbuja/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/arley/OneDrive/Documentos/NetBeansProjects/Burbuja/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Burbuja 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Burbuja 1.0-SNAPSHOT API'
+com.mycompany.burbuja
+'C:/Users/arley/OneDrive/Documentos/NetBeansProjects/Burbuja/src/main/java/com/mycompany/burbuja/Ordenamiento.java'
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\src\main\java = 1698121797941
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\allclasses-index.html = 1698122287253
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\allpackages-index.html = 1698122287256
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\copy.svg = 1698122287286
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\element-list = 1698122287200
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\help-doc.html = 1698122287281
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\index-all.html = 1698122287272
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\index.html = 1698122287276
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\jquery-ui.overrides.css = 1698122287302
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\member-search-index.js = 1698122287263
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\module-search-index.js = 1698122287258
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\overview-tree.html = 1698122287244
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\package-search-index.js = 1698122287260
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\script.js = 1698122287285
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\search-page.js = 1698122287290
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\search.html = 1698122287274
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\search.js = 1698122287289
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\serialized-form.html = 1698122287228
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\stylesheet.css = 1698122287283
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\tag-search-index.js = 1698122287264
+C:\Users\arley\OneDrive\Documentos\NetBeansProjects\Burbuja\target\site\apidocs\type-search-index.js = 1698122287261
